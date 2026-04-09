@@ -16,6 +16,9 @@ Outside of work, I spend most of my time exploring:
 
 ## Open Source
 
+### **Brosh**
+A terminal emulator built for Claude Code, featuring purpose built plugins and panels for the modern AI workflow
+
 ### **Terminal MCP**
 A terminal interface designed for collaborating with LLMs, with an emphasis on safety, control, and real developer workflows.
 
