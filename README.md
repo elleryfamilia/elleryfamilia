@@ -20,9 +20,9 @@ Outside of work, I spend most of my time exploring:
 
 A terminal-first workspace for agentic coding, built for the new workflow of directing AI tools, reviewing their work, and steering software toward the right outcome.
 
-### Brosh
+### ~~Brosh~~
 
-A terminal emulator built for Claude Code, with purpose-built plugins and panels for modern AI-assisted development workflows.
+An earlier experiment in building a Claude Code-focused terminal workspace. Its ideas now live on in Zerminal.
 
 ### Terminal MCP
 
