@@ -32,6 +32,10 @@ A terminal interface for collaborating with LLMs, with an emphasis on safety, co
 
 A terminal-first editor built for speed, personality, and modern AI-driven development.
 
+### [Broshky](https://huggingface.co/elleryfamilia/broshky) · Hugging Face
+
+A lightweight shell-command classifier for distinguishing terminal commands from natural-language input.
+
 ---
 
 If something here resonates, poke around my repos.
