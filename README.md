@@ -1,39 +1,37 @@
 # Hey, I’m Ellery 👋
 
-I like building things — software, interfaces, systems, and occasionally odd little experiments that start as curiosity and turn into real projects.
+I build software products, developer tools, and user interfaces for people who care about craft, speed, and clarity.
 
-By day, I lead engineering teams at **Volvo Cars**, working on the platform behind **volvocars.com**.
+By day, I work in AI Strategy and Enablement at Volvo Cars, helping teams apply AI to meaningful business and product problems. My background is in software engineering leadership, with a focus on turning ambiguity into strategy, aligning teams around clear technical direction, and shipping software that moves the business forward.
+
+I’m especially interested in how AI changes the way teams build: not by replacing engineering judgment, but by giving strong teams more leverage, better feedback loops, and more time for the work that improves products.
 
 Outside of work, I spend most of my time exploring:
 
-- AI systems that are useful *and* controllable  
-- terminal-first interfaces  
-- human-friendly computing  
-- tinkering on hardware + software projects (often inspired by building alongside my kids)  
-- tools that make building feel faster and more fun  
+- practical AI systems and agentic workflows
+- developer tools, terminals, and interfaces
+- hardware + software projects, often inspired by building alongside my kids
 
 ---
 
 ## Open Source
 
-### **Brosh**
-A terminal emulator built for Claude Code, featuring purpose built plugins and panels for the modern AI workflow
+### [Zerminal](https://zerminal.dev/)
 
-### **Terminal MCP**
-A terminal interface designed for collaborating with LLMs, with an emphasis on safety, control, and real developer workflows.
+A terminal-first workspace for agentic coding, built for the new workflow of directing AI tools, reviewing their work, and steering software toward the right outcome.
 
-### **THICC**
-A terminal-first editor built for speed, vibe, and modern AI driven development.
+### Brosh
 
----
+A terminal emulator built for Claude Code, with purpose-built plugins and panels for modern AI-assisted development workflows.
 
-## What I’m drawn to
+### Terminal MCP
 
-- AI that feels practical, not magical  
-- simple tools with strong personality  
-- interfaces that don’t get in the way  
-- projects that are fun to ship and fun to use  
+A terminal interface for collaborating with LLMs, with an emphasis on safety, control, and real developer workflows.
+
+### THICC
+
+A terminal-first editor built for speed, personality, and modern AI-driven development.
 
 ---
 
-If something here resonates, feel free to poke around my repos.
+If something here resonates, poke around my repos.
