@@ -1,6 +1,6 @@
 # Hey, I’m Ellery 👋
 
-I build software products, developer tools, and user interfaces for people who care about craft, speed, and clarity.
+I like solving interesting problems — often with software.
 
 By day, I work in AI Strategy and Enablement at Volvo Cars, helping teams apply AI to meaningful business and product problems. My background is in software engineering leadership, with a focus on turning ambiguity into strategy, aligning teams around clear technical direction, and shipping software that moves the business forward.
 
