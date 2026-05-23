@@ -1,0 +1,24 @@
+name: generate recently-starred metrics
+
+on:
+  schedule:
+    - cron: '15 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  stars:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: recently starred
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 6
