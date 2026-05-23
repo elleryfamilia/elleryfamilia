@@ -1,3 +1,10 @@
+<!-- galaga -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elleryfamilia/elleryfamilia/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elleryfamilia/elleryfamilia/output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/elleryfamilia/elleryfamilia/output/galaga-contribution-graph.svg">
+</picture>
+
 # Hey, I’m Ellery 👋
 
 I love solving hard problems — often with software.
@@ -38,16 +45,7 @@ A lightweight shell-command classifier for distinguishing terminal commands from
 
 ---
 
-## Activity
-
-<!-- galaga -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elleryfamilia/elleryfamilia/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elleryfamilia/elleryfamilia/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/elleryfamilia/elleryfamilia/output/galaga-contribution-graph.svg">
-</picture>
-
-### Recently starred
+## Recently starred
 
 ![Recently starred](./metrics.plugin.stars.svg)
 
