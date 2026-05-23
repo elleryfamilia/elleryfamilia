@@ -1,4 +1,4 @@
-name: generate pac-man contribution graph
+name: generate galaga contribution graph
 
 on:
   schedule:
@@ -19,7 +19,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman'
+          games: 'galaga'
 
       - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
