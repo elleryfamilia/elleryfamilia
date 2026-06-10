@@ -15,7 +15,7 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
 .term {
   font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.55;
   background: var(--term-bg);
   border: 1px solid var(--term-border);
@@ -53,7 +53,7 @@
 }
 @keyframes blink { 50% { opacity: 0; } }
 @media (max-width: 600px) {
-  .term { font-size: 12px; }
+  .term { font-size: 13px; }
   .long { display: none; }
   .short { display: inline; }
 }
