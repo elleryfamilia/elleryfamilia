@@ -36,7 +36,14 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 
 ## Recently starred
 
-![Recently starred](./metrics.plugin.stars.svg)
+<!-- STARS:START -->
+- [**manyougz/velotype**](https://github.com/manyougz/velotype) · ☆ 404 — Write at the speed of thought – Velotype is a high-performance native Markdown editor built with Rust and GPUI.⚡
+- [**longbridge/gpui-component**](https://github.com/longbridge/gpui-component) · ☆ 11.7k — Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [**abelevich/tutor-bot**](https://github.com/abelevich/tutor-bot) · ☆ 1
+- [**withmartian/code-review-benchmark**](https://github.com/withmartian/code-review-benchmark) · ☆ 175
+- [**raindrop-ai/workshop**](https://github.com/raindrop-ai/workshop) · ☆ 875 — Give your coding agent the power to write and run agent evals.
+- [**Arize-ai/phoenix**](https://github.com/Arize-ai/phoenix) · ☆ 10.1k — AI Observability & Evaluation
+<!-- STARS:END -->
 
 ---
 
