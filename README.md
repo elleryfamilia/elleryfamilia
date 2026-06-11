@@ -7,15 +7,13 @@
 
 I love solving hard problems — often with software.
 
-By day, I work in AI Strategy and Enablement at Volvo Cars, helping teams apply AI to meaningful business and product problems. My background is in software engineering leadership, with a focus on turning ambiguity into strategy, aligning teams around clear technical direction, and shipping software that moves the business forward.
+**Now** · AI Strategy &amp; Enablement at Volvo Cars — helping teams apply AI to meaningful business and product problems.
 
-I’m especially interested in how AI changes the way teams build: not by replacing engineering judgment, but by giving strong teams more leverage, better feedback loops, and more time for the work that improves products.
+**Before** · Software engineering leadership — turning ambiguity into strategy, aligning teams around clear technical direction, and shipping software that moves the business forward.
 
-Outside of work, I spend most of my time exploring:
+**What I believe** · AI doesn’t replace engineering judgment. It gives strong teams more leverage, better feedback loops, and more time for the work that actually improves products.
 
-- practical AI systems and agentic workflows
-- developer tools, terminals, and interfaces
-- hardware + software projects, often inspired by building alongside my kids
+**Off the clock** · Practical AI systems and agentic workflows · developer tools, terminals, and interfaces · hardware + software projects, often built alongside my kids.
 
 ---
 
