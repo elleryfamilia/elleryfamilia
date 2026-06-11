@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="100%" height="216">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+:root {
+  --term-bg: #161b22;
+  --term-border: #30363d;
+  --bar-bg: #21262d;
+  --bar-text: #8b949e;
+  --text: #c9d1d9;
+  --prompt: #3fb950;
+  --dir: #58a6ff;
+  --output: #e6edf3;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+.term {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  font-size: 16px;
+  line-height: 1.55;
+  background: var(--term-bg);
+  border: 1px solid var(--term-border);
+  border-radius: 8px;
+  overflow: hidden;
+  height: 214px;
+}
+.bar {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  background: var(--bar-bg);
+  border-bottom: 1px solid var(--term-border);
+  padding: 8px 12px;
+}
+.dot { width: 12px; height: 12px; border-radius: 50%; }
+.dot.r { background: #ff5f57; }
+.dot.y { background: #febc2e; }
+.dot.g { background: #28c840; }
+.bar .title {
+  flex: 1;
+  text-align: center;
+  font-size: 12px;
+  color: var(--bar-text);
+}
+.body { padding: 14px 16px; color: var(--text); }
+.p { color: var(--prompt); font-weight: 600; }
+.o { color: var(--output); }
+.dir { color: var(--dir); font-weight: 600; }
+.short { display: none; }
+.cursor {
+  display: inline-block;
+  margin-left: 2px;
+  animation: blink 1.1s steps(1) infinite;
+}
+@keyframes blink { 50% { opacity: 0; } }
+@media (max-width: 600px) {
+  .term { font-size: 13px; }
+  .long { display: none; }
+  .short { display: inline; }
+}
+</style>
+<div class="term">
+<div class="bar"><span class="dot r"></span><span class="dot y"></span><span class="dot g"></span><span class="title">ellery@github — zsh</span></div>
+<div class="body">
+<p><span class="p">ellery@github:~$</span> whoami</p>
+<p class="o"><span class="long">Ellery Familia — AI Strategy &amp; Enablement @ Volvo Cars · New York</span><span class="short">Ellery Familia — AI @ Volvo Cars · NYC</span></p>
+<p><span class="p">ellery@github:~$</span> ls ~/interests</p>
+<p class="o"><span class="dir">agentic-workflows/</span>&#160;&#160;<span class="dir">terminals/</span>&#160;&#160;<span class="dir">dev-tools/</span>&#160;&#160;<span class="dir">hardware-hacks/</span></p>
+<p><span class="p">ellery@github:~$</span><span class="cursor">▍</span></p>
+</div>
+</div>
+</div>
+</foreignObject>
+</svg>
