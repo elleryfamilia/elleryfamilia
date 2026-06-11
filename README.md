@@ -13,7 +13,7 @@ I love solving hard problems — often with software.
 
 **What I believe** · AI doesn’t replace engineering judgment. It gives strong teams more leverage, better feedback loops, and more time for the work that actually improves products.
 
-**Off the clock** · Usually in a terminal teaching AI agents new tricks, soldering something questionable with my kids, or starting one more side project than I'll ever finish.
+**Off the clock** · Usually in a terminal teaching AI agents new tricks, soldering something questionable with my kids, or kicking off yet another side project.
 
 ---
 
