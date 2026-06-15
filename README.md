@@ -37,12 +37,12 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 ## Recently starred
 
 <!-- STARS:START -->
-- [**manyougz/velotype**](https://github.com/manyougz/velotype) · ☆ 411 — Write at the speed of thought – Velotype is a high-performance native Markdown editor built with Rust and GPUI.⚡
-- [**longbridge/gpui-component**](https://github.com/longbridge/gpui-component) · ☆ 11.7k — Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [**a2aproject/A2A**](https://github.com/a2aproject/A2A) · ☆ 24.3k — Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
+- [**manyougz/velotype**](https://github.com/manyougz/velotype) · ☆ 412 — Write at the speed of thought – Velotype is a high-performance native Markdown editor built with Rust and GPUI.⚡
+- [**longbridge/gpui-component**](https://github.com/longbridge/gpui-component) · ☆ 11.8k — Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [**abelevich/tutor-bot**](https://github.com/abelevich/tutor-bot) · ☆ 1
-- [**withmartian/code-review-benchmark**](https://github.com/withmartian/code-review-benchmark) · ☆ 177
-- [**raindrop-ai/workshop**](https://github.com/raindrop-ai/workshop) · ☆ 882 — Give your coding agent the power to write and run agent evals.
-- [**Arize-ai/phoenix**](https://github.com/Arize-ai/phoenix) · ☆ 10.1k — AI Observability & Evaluation
+- [**withmartian/code-review-benchmark**](https://github.com/withmartian/code-review-benchmark) · ☆ 179
+- [**raindrop-ai/workshop**](https://github.com/raindrop-ai/workshop) · ☆ 884 — Give your coding agent the power to write and run agent evals.
 <!-- STARS:END -->
 
 ---
