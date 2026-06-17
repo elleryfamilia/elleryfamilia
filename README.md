@@ -37,12 +37,12 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 ## Recently starred
 
 <!-- STARS:START -->
-- [**manyougz/velotype**](https://github.com/manyougz/velotype) · ☆ 415 — Write at the speed of thought – Velotype is a high-performance native Markdown editor built with Rust and GPUI.⚡
+- [**apache/airflow**](https://github.com/apache/airflow) · ☆ 45.8k — Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [**manyougz/velotype**](https://github.com/manyougz/velotype) · ☆ 417 — Write at the speed of thought – Velotype is a high-performance native Markdown editor built with Rust and GPUI.⚡
 - [**longbridge/gpui-component**](https://github.com/longbridge/gpui-component) · ☆ 11.8k — Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [**abelevich/tutor-bot**](https://github.com/abelevich/tutor-bot) · ☆ 1
-- [**withmartian/code-review-benchmark**](https://github.com/withmartian/code-review-benchmark) · ☆ 182
-- [**raindrop-ai/workshop**](https://github.com/raindrop-ai/workshop) · ☆ 886 — Give your coding agent the power to write and run agent evals.
-- [**Arize-ai/phoenix**](https://github.com/Arize-ai/phoenix) · ☆ 10.2k — AI Observability & Evaluation
+- [**withmartian/code-review-benchmark**](https://github.com/withmartian/code-review-benchmark) · ☆ 185
+- [**raindrop-ai/workshop**](https://github.com/raindrop-ai/workshop) · ☆ 887 — Give your coding agent the power to write and run agent evals.
 <!-- STARS:END -->
 
 ---
