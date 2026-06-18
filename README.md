@@ -37,12 +37,12 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 ## Recently starred
 
 <!-- STARS:START -->
-- [**apache/airflow**](https://github.com/apache/airflow) · ☆ 45.8k — Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [**manyougz/velotype**](https://github.com/manyougz/velotype) · ☆ 417 — Write at the speed of thought – Velotype is a high-performance native Markdown editor built with Rust and GPUI.⚡
+- [**WeiboAI/VibeThinker**](https://github.com/WeiboAI/VibeThinker) · ☆ 916 — Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeThinker-1.5B
+- [**apache/airflow**](https://github.com/apache/airflow) · ☆ 45.9k — Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [**manyougz/velotype**](https://github.com/manyougz/velotype) · ☆ 419 — Write at the speed of thought – Velotype is a high-performance native Markdown editor built with Rust and GPUI.⚡
 - [**longbridge/gpui-component**](https://github.com/longbridge/gpui-component) · ☆ 11.8k — Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [**abelevich/tutor-bot**](https://github.com/abelevich/tutor-bot) · ☆ 1
-- [**withmartian/code-review-benchmark**](https://github.com/withmartian/code-review-benchmark) · ☆ 185
-- [**raindrop-ai/workshop**](https://github.com/raindrop-ai/workshop) · ☆ 887 — Give your coding agent the power to write and run agent evals.
+- [**withmartian/code-review-benchmark**](https://github.com/withmartian/code-review-benchmark) · ☆ 187
 <!-- STARS:END -->
 
 ---
