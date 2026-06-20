@@ -37,12 +37,12 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 ## Recently starred
 
 <!-- STARS:START -->
-- [**WeiboAI/VibeThinker**](https://github.com/WeiboAI/VibeThinker) · ☆ 1k — Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeThinker-1.5B
+- [**run-llama/liteparse**](https://github.com/run-llama/liteparse) · ☆ 10.3k — A fast, helpful, and open-source document parser
+- [**microsoft/Webwright**](https://github.com/microsoft/Webwright) · ☆ 5.5k — A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
+- [**microsoft/markitdown**](https://github.com/microsoft/markitdown) · ☆ 156.1k — Python tool for converting files and office documents to Markdown.
+- [**BuilderIO/agent-native**](https://github.com/BuilderIO/agent-native) · ☆ 1.1k — A framework for building agent-native applications.
+- [**WeiboAI/VibeThinker**](https://github.com/WeiboAI/VibeThinker) · ☆ 1.1k — Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeThinker-1.5B
 - [**apache/airflow**](https://github.com/apache/airflow) · ☆ 45.9k — Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [**manyougz/velotype**](https://github.com/manyougz/velotype) · ☆ 421 — Write at the speed of thought – Velotype is a high-performance native Markdown editor built with Rust and GPUI.⚡
-- [**longbridge/gpui-component**](https://github.com/longbridge/gpui-component) · ☆ 11.8k — Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-- [**abelevich/tutor-bot**](https://github.com/abelevich/tutor-bot) · ☆ 1
-- [**withmartian/code-review-benchmark**](https://github.com/withmartian/code-review-benchmark) · ☆ 189
 <!-- STARS:END -->
 
 ---
