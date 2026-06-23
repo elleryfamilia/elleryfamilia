@@ -37,11 +37,11 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 ## Recently starred
 
 <!-- STARS:START -->
-- [**run-llama/liteparse**](https://github.com/run-llama/liteparse) · ☆ 10.6k — A fast, helpful, and open-source document parser
+- [**run-llama/liteparse**](https://github.com/run-llama/liteparse) · ☆ 10.7k — A fast, helpful, and open-source document parser
 - [**microsoft/Webwright**](https://github.com/microsoft/Webwright) · ☆ 5.5k — A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
-- [**microsoft/markitdown**](https://github.com/microsoft/markitdown) · ☆ 157.2k — Python tool for converting files and office documents to Markdown.
-- [**BuilderIO/agent-native**](https://github.com/BuilderIO/agent-native) · ☆ 1.3k — A framework for building agent-native applications.
-- [**WeiboAI/VibeThinker**](https://github.com/WeiboAI/VibeThinker) · ☆ 1.2k — Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeThinker-1.5B
+- [**microsoft/markitdown**](https://github.com/microsoft/markitdown) · ☆ 157.8k — Python tool for converting files and office documents to Markdown.
+- [**BuilderIO/agent-native**](https://github.com/BuilderIO/agent-native) · ☆ 1.6k — A framework for building agent-native applications.
+- [**WeiboAI/VibeThinker**](https://github.com/WeiboAI/VibeThinker) · ☆ 1.3k — Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeThinker-1.5B
 - [**apache/airflow**](https://github.com/apache/airflow) · ☆ 45.9k — Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 <!-- STARS:END -->
 
