@@ -37,12 +37,12 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 ## Recently starred
 
 <!-- STARS:START -->
-- [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) · ☆ 37.3k — Browser automation CLI for AI agents
+- [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) · ☆ 37.4k — Browser automation CLI for AI agents
 - [**fathyb/carbonyl**](https://github.com/fathyb/carbonyl) · ☆ 19.2k — Chromium running inside your terminal
-- [**run-llama/liteparse**](https://github.com/run-llama/liteparse) · ☆ 11.1k — A fast, helpful, and open-source document parser
+- [**run-llama/liteparse**](https://github.com/run-llama/liteparse) · ☆ 11.2k — A fast, helpful, and open-source document parser
 - [**microsoft/Webwright**](https://github.com/microsoft/Webwright) · ☆ 5.7k — A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
-- [**microsoft/markitdown**](https://github.com/microsoft/markitdown) · ☆ 159.6k — Python tool for converting files and office documents to Markdown.
-- [**BuilderIO/agent-native**](https://github.com/BuilderIO/agent-native) · ☆ 2.5k — A framework for building agent-native applications.
+- [**microsoft/markitdown**](https://github.com/microsoft/markitdown) · ☆ 160.1k — Python tool for converting files and office documents to Markdown.
+- [**BuilderIO/agent-native**](https://github.com/BuilderIO/agent-native) · ☆ 2.7k — A framework for building agent-native applications.
 <!-- STARS:END -->
 
 ---
