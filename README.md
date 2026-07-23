@@ -38,9 +38,9 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 
 <!-- STARS:START -->
 - [**karpathy/autoresearch**](https://github.com/karpathy/autoresearch) · ☆ 91.8k — AI agents running research on single-GPU nanochat training automatically
-- [**earendil-works/pi**](https://github.com/earendil-works/pi) · ☆ 74.9k — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [**FoundationAgents/OpenManus**](https://github.com/FoundationAgents/OpenManus) · ☆ 57.5k — No fortress, purely open ground.  OpenManus is Coming.
-- [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) · ☆ 38.9k — Browser automation CLI for AI agents
+- [**earendil-works/pi**](https://github.com/earendil-works/pi) · ☆ 75.7k — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- [**FoundationAgents/OpenManus**](https://github.com/FoundationAgents/OpenManus) · ☆ 57.6k — No fortress, purely open ground.  OpenManus is Coming.
+- [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) · ☆ 39k — Browser automation CLI for AI agents
 - [**fathyb/carbonyl**](https://github.com/fathyb/carbonyl) · ☆ 19.3k — Chromium running inside your terminal
 - [**run-llama/liteparse**](https://github.com/run-llama/liteparse) · ☆ 11.7k — A fast, helpful, and open-source document parser
 <!-- STARS:END -->
