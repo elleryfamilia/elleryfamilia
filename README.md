@@ -37,12 +37,12 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 ## Recently starred
 
 <!-- STARS:START -->
-- [**karpathy/autoresearch**](https://github.com/karpathy/autoresearch) · ☆ 93.1k — AI agents running research on single-GPU nanochat training automatically
-- [**earendil-works/pi**](https://github.com/earendil-works/pi) · ☆ 83.7k — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- [**temporalio/temporal**](https://github.com/temporalio/temporal) · ☆ 22.1k — Temporal service
+- [**triggerdotdev/trigger.dev**](https://github.com/triggerdotdev/trigger.dev) · ☆ 15.9k — Trigger.dev – build and deploy fully‑managed AI agents and workflows
+- [**karpathy/autoresearch**](https://github.com/karpathy/autoresearch) · ☆ 93.2k — AI agents running research on single-GPU nanochat training automatically
+- [**earendil-works/pi**](https://github.com/earendil-works/pi) · ☆ 84.3k — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [**FoundationAgents/OpenManus**](https://github.com/FoundationAgents/OpenManus) · ☆ 57.9k — No fortress, purely open ground.  OpenManus is Coming.
-- [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) · ☆ 39.9k — Browser automation CLI for AI agents
-- [**fathyb/carbonyl**](https://github.com/fathyb/carbonyl) · ☆ 19.3k — Chromium running inside your terminal
-- [**run-llama/liteparse**](https://github.com/run-llama/liteparse) · ☆ 11.9k — A fast, helpful, and open-source document parser
+- [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) · ☆ 40k — Browser automation CLI for AI agents
 <!-- STARS:END -->
 
 ---
