@@ -37,12 +37,12 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 ## Recently starred
 
 <!-- STARS:START -->
-- [**temporalio/temporal**](https://github.com/temporalio/temporal) · ☆ 22.1k — Temporal service
+- [**JustinGamer191/Holo**](https://github.com/JustinGamer191/Holo) · ☆ 560
+- [**temporalio/temporal**](https://github.com/temporalio/temporal) · ☆ 22.2k — Temporal service
 - [**triggerdotdev/trigger.dev**](https://github.com/triggerdotdev/trigger.dev) · ☆ 15.9k — Trigger.dev – build and deploy fully‑managed AI agents and workflows
-- [**karpathy/autoresearch**](https://github.com/karpathy/autoresearch) · ☆ 93.2k — AI agents running research on single-GPU nanochat training automatically
-- [**earendil-works/pi**](https://github.com/earendil-works/pi) · ☆ 84.3k — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- [**karpathy/autoresearch**](https://github.com/karpathy/autoresearch) · ☆ 93.3k — AI agents running research on single-GPU nanochat training automatically
+- [**earendil-works/pi**](https://github.com/earendil-works/pi) · ☆ 84.9k — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [**FoundationAgents/OpenManus**](https://github.com/FoundationAgents/OpenManus) · ☆ 57.9k — No fortress, purely open ground.  OpenManus is Coming.
-- [**vercel-labs/agent-browser**](https://github.com/vercel-labs/agent-browser) · ☆ 40k — Browser automation CLI for AI agents
 <!-- STARS:END -->
 
 ---
