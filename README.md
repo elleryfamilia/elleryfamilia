@@ -37,11 +37,11 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 ## Recently starred
 
 <!-- STARS:START -->
-- [**JustinGamer191/Holo**](https://github.com/JustinGamer191/Holo) · ☆ 576
+- [**JustinGamer191/Holo**](https://github.com/JustinGamer191/Holo) · ☆ 585
 - [**temporalio/temporal**](https://github.com/temporalio/temporal) · ☆ 22.2k — Temporal service
 - [**triggerdotdev/trigger.dev**](https://github.com/triggerdotdev/trigger.dev) · ☆ 16k — Trigger.dev – build and deploy fully‑managed AI agents and workflows
-- [**karpathy/autoresearch**](https://github.com/karpathy/autoresearch) · ☆ 93.5k — AI agents running research on single-GPU nanochat training automatically
-- [**earendil-works/pi**](https://github.com/earendil-works/pi) · ☆ 86.1k — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- [**karpathy/autoresearch**](https://github.com/karpathy/autoresearch) · ☆ 93.6k — AI agents running research on single-GPU nanochat training automatically
+- [**earendil-works/pi**](https://github.com/earendil-works/pi) · ☆ 86.8k — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [**FoundationAgents/OpenManus**](https://github.com/FoundationAgents/OpenManus) · ☆ 57.9k — No fortress, purely open ground.  OpenManus is Coming.
 <!-- STARS:END -->
 
