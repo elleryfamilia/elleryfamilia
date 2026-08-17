@@ -37,12 +37,12 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 ## Recently starred
 
 <!-- STARS:START -->
-- [**JustinGamer191/Holo**](https://github.com/JustinGamer191/Holo) · ☆ 610
+- [**MatrAIx-ai/MatrAIx-Persona-8B**](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) · ☆ 1.1k — Simulate Before Reality. 
+- [**JustinGamer191/Holo**](https://github.com/JustinGamer191/Holo) · ☆ 615
 - [**temporalio/temporal**](https://github.com/temporalio/temporal) · ☆ 22.3k — Temporal service
 - [**triggerdotdev/trigger.dev**](https://github.com/triggerdotdev/trigger.dev) · ☆ 16k — Trigger.dev – build and deploy fully‑managed AI agents and workflows
-- [**karpathy/autoresearch**](https://github.com/karpathy/autoresearch) · ☆ 93.9k — AI agents running research on single-GPU nanochat training automatically
-- [**earendil-works/pi**](https://github.com/earendil-works/pi) · ☆ 90.9k — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [**FoundationAgents/OpenManus**](https://github.com/FoundationAgents/OpenManus) · ☆ 58k — No fortress, purely open ground.  OpenManus is Coming.
+- [**karpathy/autoresearch**](https://github.com/karpathy/autoresearch) · ☆ 94k — AI agents running research on single-GPU nanochat training automatically
+- [**earendil-works/pi**](https://github.com/earendil-works/pi) · ☆ 91.6k — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 <!-- STARS:END -->
 
 ---
