@@ -40,7 +40,7 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 - [**quarto-dev/quarto-cli**](https://github.com/quarto-dev/quarto-cli) · ☆ 6k — Open-source scientific and technical publishing system built on Pandoc.
 - [**slidevjs/slidev**](https://github.com/slidevjs/slidev) · ☆ 48.2k — Presentation Slides for Developers
 - [**MatrAIx-ai/MatrAIx-Persona-8B**](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) · ☆ 1.6k — Simulate Before Reality. 
-- [**JustinGamer191/Holo**](https://github.com/JustinGamer191/Holo) · ☆ 683
+- [**JustinGamer191/Holo**](https://github.com/JustinGamer191/Holo) · ☆ 689
 - [**temporalio/temporal**](https://github.com/temporalio/temporal) · ☆ 22.5k — Temporal service
 - [**triggerdotdev/trigger.dev**](https://github.com/triggerdotdev/trigger.dev) · ☆ 16.1k — Trigger.dev – build and deploy fully‑managed AI agents and workflows
 <!-- STARS:END -->
