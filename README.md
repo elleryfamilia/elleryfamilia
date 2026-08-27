@@ -37,12 +37,12 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 ## Recently starred
 
 <!-- STARS:START -->
+- [**Graphify-Labs/graphify**](https://github.com/Graphify-Labs/graphify) · ☆ 111.2k — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+- [**Fission-AI/OpenSpec**](https://github.com/Fission-AI/OpenSpec) · ☆ 66.4k — Spec-driven development (SDD) for AI coding assistants.
 - [**quarto-dev/quarto-cli**](https://github.com/quarto-dev/quarto-cli) · ☆ 6k — Open-source scientific and technical publishing system built on Pandoc.
-- [**slidevjs/slidev**](https://github.com/slidevjs/slidev) · ☆ 48.2k — Presentation Slides for Developers
+- [**slidevjs/slidev**](https://github.com/slidevjs/slidev) · ☆ 48.3k — Presentation Slides for Developers
 - [**MatrAIx-ai/MatrAIx-Persona-8B**](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) · ☆ 1.6k — Simulate Before Reality. 
-- [**JustinGamer191/Holo**](https://github.com/JustinGamer191/Holo) · ☆ 689
-- [**temporalio/temporal**](https://github.com/temporalio/temporal) · ☆ 22.5k — Temporal service
-- [**triggerdotdev/trigger.dev**](https://github.com/triggerdotdev/trigger.dev) · ☆ 16.1k — Trigger.dev – build and deploy fully‑managed AI agents and workflows
+- [**JustinGamer191/Holo**](https://github.com/JustinGamer191/Holo) · ☆ 705
 <!-- STARS:END -->
 
 ---
