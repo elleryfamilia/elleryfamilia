@@ -1,4 +1,4 @@
-name: update recently starred
+name: update readme
 
 on:
   schedule:
@@ -7,6 +7,11 @@ on:
   push:
     branches:
       - main
+
+# Serialize cron, push, and manual runs so they never race on the push.
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
 
 jobs:
   stars:
@@ -19,12 +24,19 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: ./scripts/update-stars.sh
+      - name: render stat cards
+        env:
+          # Optional CARDS_TOKEN (a PAT with read:user) includes private
+          # contributions in the counts; the default token sees public data only.
+          GH_TOKEN: ${{ secrets.CARDS_TOKEN || github.token }}
+        run: ./scripts/render-cards.py
       - name: commit if changed
         run: |
-          if ! git diff --quiet README.md; then
+          git add README.md assets/cards
+          if ! git diff --quiet --cached; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add README.md
-            git commit -m "chore: update recently starred"
+            git commit -m "chore: refresh readme cards and stars"
+            git pull --rebase origin main
             git push
           fi
