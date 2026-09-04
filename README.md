@@ -37,12 +37,12 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 ## Recently starred
 
 <!-- STARS:START -->
-- [**Graphify-Labs/graphify**](https://github.com/Graphify-Labs/graphify) · ☆ 114.1k — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-- [**Fission-AI/OpenSpec**](https://github.com/Fission-AI/OpenSpec) · ☆ 67.1k — Spec-driven development (SDD) for AI coding assistants.
+- [**jo-inc/camofox-browser**](https://github.com/jo-inc/camofox-browser) · ☆ 9.1k — Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
+- [**Graphify-Labs/graphify**](https://github.com/Graphify-Labs/graphify) · ☆ 114.5k — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+- [**Fission-AI/OpenSpec**](https://github.com/Fission-AI/OpenSpec) · ☆ 67.2k — Spec-driven development (SDD) for AI coding assistants.
 - [**quarto-dev/quarto-cli**](https://github.com/quarto-dev/quarto-cli) · ☆ 6k — Open-source scientific and technical publishing system built on Pandoc.
 - [**slidevjs/slidev**](https://github.com/slidevjs/slidev) · ☆ 48.4k — Presentation Slides for Developers
 - [**MatrAIx-ai/MatrAIx-Persona-8B**](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) · ☆ 1.8k — Simulate Before Reality. 
-- [**JustinGamer191/Holo**](https://github.com/JustinGamer191/Holo) · ☆ 795
 <!-- STARS:END -->
 
 ---
