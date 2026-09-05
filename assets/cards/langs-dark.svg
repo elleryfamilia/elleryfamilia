@@ -6,14 +6,14 @@
 <text x="31.6" y="27" fill="#c9d1d9" font-size="13" font-weight="600" text-anchor="start">gh langs</text>
 <clipPath id="bar"><rect x="16" y="41" width="268" height="8" rx="4"/></clipPath>
 <rect x="16" y="41" width="268" height="8" rx="4" fill="#21262d"/>
-<rect clip-path="url(#bar)" x="16.00" y="41" width="243.25" height="8" fill="#dea584"/>
-<rect clip-path="url(#bar)" x="259.25" y="41" width="9.38" height="8" fill="#3178c6"/>
-<rect clip-path="url(#bar)" x="268.63" y="41" width="7.38" height="8" fill="#00ADD8"/>
-<rect clip-path="url(#bar)" x="276.01" y="41" width="1.34" height="8" fill="#89e051"/>
-<rect clip-path="url(#bar)" x="277.35" y="41" width="1.30" height="8" fill="#663399"/>
-<rect clip-path="url(#bar)" x="278.65" y="41" width="1.26" height="8" fill="#f1e05a"/>
+<rect clip-path="url(#bar)" x="16.00" y="41" width="243.19" height="8" fill="#dea584"/>
+<rect clip-path="url(#bar)" x="259.19" y="41" width="9.38" height="8" fill="#3178c6"/>
+<rect clip-path="url(#bar)" x="268.57" y="41" width="7.38" height="8" fill="#00ADD8"/>
+<rect clip-path="url(#bar)" x="275.95" y="41" width="1.34" height="8" fill="#89e051"/>
+<rect clip-path="url(#bar)" x="277.29" y="41" width="1.30" height="8" fill="#663399"/>
+<rect clip-path="url(#bar)" x="278.59" y="41" width="1.26" height="8" fill="#f1e05a"/>
 <circle cx="21" cy="76" r="5" fill="#dea584"/>
-<text x="32" y="80" fill="#c9d1d9" font-size="12" font-weight="normal" text-anchor="start">Rust 90.8%</text>
+<text x="32" y="80" fill="#c9d1d9" font-size="12" font-weight="normal" text-anchor="start">Rust 90.7%</text>
 <circle cx="155" cy="76" r="5" fill="#3178c6"/>
 <text x="166" y="80" fill="#c9d1d9" font-size="12" font-weight="normal" text-anchor="start">TypeScript 3.5%</text>
 <circle cx="21" cy="96" r="5" fill="#00ADD8"/>
