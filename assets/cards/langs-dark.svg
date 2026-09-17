@@ -6,18 +6,18 @@
 <text x="31.6" y="27" fill="#c9d1d9" font-size="13" font-weight="600" text-anchor="start">gh langs</text>
 <clipPath id="bar"><rect x="16" y="41" width="268" height="8" rx="4"/></clipPath>
 <rect x="16" y="41" width="268" height="8" rx="4" fill="#21262d"/>
-<rect clip-path="url(#bar)" x="16.00" y="41" width="175.56" height="8" fill="#dea584"/>
-<rect clip-path="url(#bar)" x="191.56" y="41" width="29.30" height="8" fill="#3178c6"/>
-<rect clip-path="url(#bar)" x="220.86" y="41" width="17.19" height="8" fill="#7355dd"/>
-<rect clip-path="url(#bar)" x="238.05" y="41" width="10.69" height="8" fill="#f1e05a"/>
-<rect clip-path="url(#bar)" x="248.74" y="41" width="6.96" height="8" fill="#b07219"/>
-<rect clip-path="url(#bar)" x="255.70" y="41" width="5.08" height="8" fill="#00ADD8"/>
+<rect clip-path="url(#bar)" x="16.00" y="41" width="173.79" height="8" fill="#dea584"/>
+<rect clip-path="url(#bar)" x="189.79" y="41" width="31.29" height="8" fill="#3178c6"/>
+<rect clip-path="url(#bar)" x="221.09" y="41" width="17.02" height="8" fill="#7355dd"/>
+<rect clip-path="url(#bar)" x="238.10" y="41" width="10.59" height="8" fill="#f1e05a"/>
+<rect clip-path="url(#bar)" x="248.69" y="41" width="6.89" height="8" fill="#b07219"/>
+<rect clip-path="url(#bar)" x="255.58" y="41" width="5.03" height="8" fill="#00ADD8"/>
 <circle cx="21" cy="76" r="5" fill="#dea584"/>
-<text x="32" y="80" fill="#c9d1d9" font-size="12" font-weight="normal" text-anchor="start">Rust 65.5%</text>
+<text x="32" y="80" fill="#c9d1d9" font-size="12" font-weight="normal" text-anchor="start">Rust 64.8%</text>
 <circle cx="155" cy="76" r="5" fill="#3178c6"/>
-<text x="166" y="80" fill="#c9d1d9" font-size="12" font-weight="normal" text-anchor="start">TypeScript 10.9%</text>
+<text x="166" y="80" fill="#c9d1d9" font-size="12" font-weight="normal" text-anchor="start">TypeScript 11.7%</text>
 <circle cx="21" cy="96" r="5" fill="#7355dd"/>
-<text x="32" y="100" fill="#c9d1d9" font-size="12" font-weight="normal" text-anchor="start">C# 6.4%</text>
+<text x="32" y="100" fill="#c9d1d9" font-size="12" font-weight="normal" text-anchor="start">C# 6.3%</text>
 <circle cx="155" cy="96" r="5" fill="#f1e05a"/>
 <text x="166" y="100" fill="#c9d1d9" font-size="12" font-weight="normal" text-anchor="start">JavaScript 4.0%</text>
 <circle cx="21" cy="116" r="5" fill="#b07219"/>
