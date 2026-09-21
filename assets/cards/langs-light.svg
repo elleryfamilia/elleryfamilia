@@ -6,16 +6,16 @@
 <text x="31.6" y="27" fill="#1f2328" font-size="13" font-weight="600" text-anchor="start">gh langs</text>
 <clipPath id="bar"><rect x="16" y="41" width="268" height="8" rx="4"/></clipPath>
 <rect x="16" y="41" width="268" height="8" rx="4" fill="#eaeef2"/>
-<rect clip-path="url(#bar)" x="16.00" y="41" width="170.88" height="8" fill="#dea584"/>
-<rect clip-path="url(#bar)" x="186.88" y="41" width="35.22" height="8" fill="#3178c6"/>
-<rect clip-path="url(#bar)" x="222.10" y="41" width="16.73" height="8" fill="#7355dd"/>
-<rect clip-path="url(#bar)" x="238.83" y="41" width="10.46" height="8" fill="#f1e05a"/>
-<rect clip-path="url(#bar)" x="249.29" y="41" width="6.78" height="8" fill="#b07219"/>
-<rect clip-path="url(#bar)" x="256.06" y="41" width="4.94" height="8" fill="#00ADD8"/>
+<rect clip-path="url(#bar)" x="16.00" y="41" width="168.78" height="8" fill="#dea584"/>
+<rect clip-path="url(#bar)" x="184.78" y="41" width="37.23" height="8" fill="#3178c6"/>
+<rect clip-path="url(#bar)" x="222.01" y="41" width="16.53" height="8" fill="#7355dd"/>
+<rect clip-path="url(#bar)" x="238.54" y="41" width="10.33" height="8" fill="#f1e05a"/>
+<rect clip-path="url(#bar)" x="248.87" y="41" width="6.69" height="8" fill="#b07219"/>
+<rect clip-path="url(#bar)" x="255.56" y="41" width="4.88" height="8" fill="#00ADD8"/>
 <circle cx="21" cy="76" r="5" fill="#dea584"/>
-<text x="32" y="80" fill="#1f2328" font-size="12" font-weight="normal" text-anchor="start">Rust 63.8%</text>
+<text x="32" y="80" fill="#1f2328" font-size="12" font-weight="normal" text-anchor="start">Rust 63.0%</text>
 <circle cx="155" cy="76" r="5" fill="#3178c6"/>
-<text x="166" y="80" fill="#1f2328" font-size="12" font-weight="normal" text-anchor="start">TypeScript 13.1%</text>
+<text x="166" y="80" fill="#1f2328" font-size="12" font-weight="normal" text-anchor="start">TypeScript 13.9%</text>
 <circle cx="21" cy="96" r="5" fill="#7355dd"/>
 <text x="32" y="100" fill="#1f2328" font-size="12" font-weight="normal" text-anchor="start">C# 6.2%</text>
 <circle cx="155" cy="96" r="5" fill="#f1e05a"/>
