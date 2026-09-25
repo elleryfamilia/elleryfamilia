@@ -37,12 +37,12 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 ## Recently starred
 
 <!-- STARS:START -->
-- [**gechr/WhichSpace**](https://github.com/gechr/WhichSpace) · ☆ 836 — 🖥  Menu bar utility for viewing and switching Spaces (macOS 14.0+)
+- [**gechr/WhichSpace**](https://github.com/gechr/WhichSpace) · ☆ 837 — 🖥  Menu bar utility for viewing and switching Spaces (macOS 14.0+)
 - [**sw33tLie/macshot**](https://github.com/sw33tLie/macshot) · ☆ 3.6k — Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 - [**betterleaks/betterleaks**](https://github.com/betterleaks/betterleaks) · ☆ 2k — Find leaked secrets everywhere.
 - [**jo-inc/camofox-browser**](https://github.com/jo-inc/camofox-browser) · ☆ 11.2k — Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
-- [**Graphify-Labs/graphify**](https://github.com/Graphify-Labs/graphify) · ☆ 121k — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-- [**Fission-AI/OpenSpec**](https://github.com/Fission-AI/OpenSpec) · ☆ 70.1k — Spec-driven development (SDD) for AI coding assistants.
+- [**Graphify-Labs/graphify**](https://github.com/Graphify-Labs/graphify) · ☆ 121.2k — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+- [**Fission-AI/OpenSpec**](https://github.com/Fission-AI/OpenSpec) · ☆ 70.3k — Spec-driven development (SDD) for AI coding assistants.
 <!-- STARS:END -->
 
 ---
