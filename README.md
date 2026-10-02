@@ -37,12 +37,12 @@ Also: [**Broshky**](https://huggingface.co/elleryfamilia/broshky) on Hugging Fac
 ## Recently starred
 
 <!-- STARS:START -->
-- [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) · ☆ 149.4k — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [**m1k1o/neko**](https://github.com/m1k1o/neko) · ☆ 22.4k — A self hosted virtual browser that runs in docker and uses WebRTC.
+- [**DietrichGebert/ponytail**](https://github.com/DietrichGebert/ponytail) · ☆ 150.8k — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [**gechr/WhichSpace**](https://github.com/gechr/WhichSpace) · ☆ 843 — 🖥  Menu bar utility for viewing and switching Spaces (macOS 14.0+)
-- [**sw33tLie/macshot**](https://github.com/sw33tLie/macshot) · ☆ 3.6k — Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
+- [**sw33tLie/macshot**](https://github.com/sw33tLie/macshot) · ☆ 3.7k — Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 - [**betterleaks/betterleaks**](https://github.com/betterleaks/betterleaks) · ☆ 2.1k — Find leaked secrets everywhere.
 - [**jo-inc/camofox-browser**](https://github.com/jo-inc/camofox-browser) · ☆ 11.3k — Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
-- [**Graphify-Labs/graphify**](https://github.com/Graphify-Labs/graphify) · ☆ 122.9k — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 <!-- STARS:END -->
 
 ---
